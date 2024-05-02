@@ -1,0 +1,86 @@
+
+body
+{background-color: rgb(0, 208, 255);height: 100%;width: 100%;}
+H1
+{text-align: center;color: greenyellow;}
+.box
+{height: 500px;width: 800px;background-color: blue;border: 2px solid;position: absolute;top: 20%;left: 20%;box-sizing: border-box;}
+#display1
+{height: 10%;width: 80%;margin-left: 1%;border-radius: 10px;}
+#button1
+{height: 11%;width: 15%;border-radius: 10px;}
+
+#button2
+{height: 11%;width: 20%;margin-top: 3%;display: inline-block;margin-left: 8%; border-radius: 10px;}
+#button3
+{height: 11%;width: 20%;margin-left: 1%;border-radius: 10px;}
+#button4
+{height: 11%;width: 20%;margin-left: 1%;border-radius: 10px;}
+#button5
+{height: 11%;width: 20%;margin-left: 1%;border-radius: 10px;}
+
+#button6
+{height: 11%;width: 20%;margin-top: 3%;display: inline-block;margin-left: 8%;border-radius: 10px;}
+#button7
+{height: 11%;width: 20%;margin-left: 1%;border-radius: 10px;}
+#button8
+{height: 11%;width: 20%;margin-left: 1%;border-radius: 10px;}
+#button9
+{height: 11%;width: 20%;margin-left: 1%;border-radius: 10px;}
+
+#button10
+{height: 11%;width: 20%;margin-top: 3%;display: inline-block;margin-left: 8%;border-radius: 10px;}
+#button11
+{height: 11%;width: 20%;margin-left: 1%;border-radius: 10px;}
+#button12
+{height: 11%;width: 20%;margin-left: 1%;border-radius: 10px;}
+#button13
+{height: 11%;width: 20%;margin-left: 1%;border-radius: 10px;}
+
+#button14
+{height: 11%;width: 20%;margin-top: 3%;display: inline-block;margin-left: 8%;border-radius: 10px;}
+#button15
+{height: 11%;width: 20%;margin-left: 1%;border-radius: 10px;}
+#button15
+{height: 11%;width: 20%;margin-left: 1%;border-radius: 10px;}
+#button16
+{height: 11%;width: 20%;margin-left: 1%;border-radius: 10px;}
+#button17
+{height: 11%;width: 20%;margin-left: 1%;border-radius: 10px;}
+
+#button1:hover
+{background-color:red;}
+#button2:hover
+{background-color: yellow;}
+#button3:hover
+{background-color: yellow;}
+#button4:hover
+{background-color: yellow;}
+#button5:hover
+{background-color:red;}
+#button6:hover
+{background-color: yellow;}
+#button7:hover
+{background-color: yellow;}
+#button8:hover
+{background-color: yellow;}
+#button9:hover
+{background-color: red;}
+#button10:hover
+{background-color: yellow;}
+#button11:hover
+{background-color: yellow;}
+#button12:hover
+{background-color: yellow;}
+#button13:hover
+{background-color: red;}
+#button14:hover
+{background-color: red;}
+#button15:hover
+{background-color: red;}
+#button16:hover
+{background-color: red;}
+#button17:hover
+{background-color: red;}
+
+
